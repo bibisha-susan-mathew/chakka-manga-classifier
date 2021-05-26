@@ -9,6 +9,6 @@ Predicts if it is your favourite fruit or not,whether if it is chakka or manga.
 ## Team Id
 BFH/reclI8k2n9O2GErht/2021
 ## Link to product walkthrough
-
+https://drive.google.com/file/d/1OBfD2rFiguK2TemSa7WJvo06kUC3m2In/view?usp=sharing
 ## Libraries used
 Google Collab,Python 3.9.5
